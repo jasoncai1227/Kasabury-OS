@@ -1,6 +1,6 @@
 # Kasabury-OS
 
-You are tasked with writing a phone OS for Kasabury Mobile that will be installed on their products. You are required to write the software using the Java programming language. Kasabury OS must support the following features:
+Kasabury OS must support the following features:
 
 Battery life
 Network connection
@@ -18,7 +18,6 @@ Clear messages
 Get latest and oldest messages
 The given properties of the class cannot be removed and their data type and modifiers cannot be changed. You are not allowed to use any collection classes from the Java standard library besides array.
 
-You are provided with a scaffold and comments that describe the methods required to implement. Each method's comments desribes the process necessary to implement.
 
 # Factory Defaults
 
